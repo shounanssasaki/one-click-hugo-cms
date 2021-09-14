@@ -5,8 +5,11 @@ description: |
   sound
 image: https://cdn-ak.f.st-hatena.com/images/fotolife/s/shounanssasaki/20100414/20100414173405.jpg
 ---
-<h3>デュカス　恋は魔術師</h3>
-<audio src="https://shounanssasaki.github.io/web/sound/Ducasse.mp3" controls="controls"></audio><br><br><br>
+
+
+```
+
+```
 
 <h3>バブリィ習作</h3>
 <audio src="https://shounanssasaki.github.io/web/sound/bubbule.mp3" controls="controls"></audio><br><br>
