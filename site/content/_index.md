@@ -1,6 +1,6 @@
 ---
-title: 　 shounan2s2sasaki
-subtitle: "netlify　Hugo web "
+title: 　 ★shounan2s2sasaki★
+subtitle: "★netlify&Hugo★ "
 image: https://cdn-ak.f.st-hatena.com/images/fotolife/s/shounanssasaki/20150530/20150530103803.jpg
 blurb:
   heading: このサイトは?
