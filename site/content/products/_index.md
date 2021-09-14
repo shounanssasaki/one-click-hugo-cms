@@ -7,20 +7,17 @@ intro:
   description: |
     準備中
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: 準備中
+  description: |
+    準備中
   image1:
     alt: img
     image: https://cdn-ak.f.st-hatena.com/images/fotolife/s/shounanssasaki/20100415/20100415074336.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: 準備中
     image: https://cdn-ak.f.st-hatena.com/images/fotolife/s/shounanssasaki/20100415/20100415074335.jpg
   image3:
-    alt: Coffee beans
+    alt: 準備中
     image: https://cdn-ak.f.st-hatena.com/images/fotolife/s/shounanssasaki/20100415/20100415074313.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
