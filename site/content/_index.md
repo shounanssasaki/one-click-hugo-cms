@@ -1,7 +1,7 @@
 ---
 title: shounanssasaki
 subtitle: hugo web
-image: /img/home-jumbotron.jpg
+image: https://cdn-ak.f.st-hatena.com/images/fotolife/s/shounanssasaki/20150530/20150530103803.jpg
 blurb:
   heading: このサイトは?
   text: hugo 運用試験です
