@@ -7,10 +7,6 @@ image: https://cdn-ak.f.st-hatena.com/images/fotolife/s/shounanssasaki/20100414/
 ---
 
 
-```
-
-```
-
 <h3>バブリィ習作</h3>
 <audio src="https://shounanssasaki.github.io/web/sound/bubbule.mp3" controls="controls"></audio><br><br>
 
