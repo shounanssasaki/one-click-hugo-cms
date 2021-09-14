@@ -1,8 +1,13 @@
 ---
 title: test
 date: 2021-09-14T23:37:49.221Z
-description: test
+description: |+
+  test
 ---
+audio src="https://shounanssasaki.github.io/web/sound/Ducasse.mp3" controls="controls
+
+
+
 <h3>デュカス　恋は魔術師</h3>
 <audio src="https://shounanssasaki.github.io/web/sound/Ducasse.mp3" controls="controls"></audio><br><br><br>
 
