@@ -18,10 +18,10 @@ main:
     image: https://cdn-ak.f.st-hatena.com/images/fotolife/s/shounanssasaki/20100415/20100415074336.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: https://cdn-ak.f.st-hatena.com/images/fotolife/s/shounanssasaki/20100415/20100415074335.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: https://cdn-ak.f.st-hatena.com/images/fotolife/s/shounanssasaki/20100415/20100415074313.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
