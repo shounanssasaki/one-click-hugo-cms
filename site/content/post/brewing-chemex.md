@@ -23,8 +23,10 @@ image: ""
               <h3>ココログ</h3>
               <p>雑多なこと書いてます</p>
             </div>
-            <div class="col span-4"> <a href="http://shounan1s1sasaki.kakurezato.com/"><img
-                  src="img/topimg_bac.jpg" alt="img" style="width: 226px; height: 164px;"
+            <div class="col span-4">
+
+ <a href="http://shounan1s1sasaki.kakurezato.com/"><img
+                  src="http://shounan1s1sasaki.kakurezato.com/top_img/topimg_bac.jpg" alt="隠里" style="width: 226px; height: 164px;"
                   border="4px"></a>
               <h3>隠里</h3>
               <p>旧html形式スマホ非対応</p>
@@ -76,45 +78,46 @@ image: ""
                           <h2 class="center"><span class="under">サイトリンク</span></h2>
                           <div class="container center">
                             <div class="row">
-                            
-                            
-                              <div class="col span-4"> <a href="https://shounan1s1sasaki.wordpress.com/"><img
-                                    src="https://shounan1s1sasaki.files.wordpress.com/2016/11/imgp1052.jpg?w=1024"
-                                    alt="img" style="width: 169px; height: 117px;"></a>
-                                    
-                                <h3><a href="https://shounan1s1sasaki.wordpress.com/">フォ
-                                    トアルバム</a></h3>
-                                <p>wordpress.comで作成</p>
-                              </div>
-                              
-                              
-                              <div class="col span-4"> <a href="https://shounan2s2sasaki.web.fc2.com/"><img
-                                    src="img/0.jpg" alt="img" style="margin-top: 26px; width: 190px; height: 97px;"
-                                    title="img"></a>
-                                <h3><a href="https://shounan2s2sasaki.web.fc2.com/">FC2
-                                    別館</a></h3>
-                                <p>一部レスポンシブル化</p>
-                              </div>
-                              
-                              <div class="col span-4"> <a href="https://shounan1s1sasaki.vivaldi.net/"><img
-                                    src="https://shounan1s1sasaki.vivaldi.net/wp-content/uploads/sites/17479/2020/04/IMG_0067-1024x768.jpg"
-                                    alt="img" style="width: 190px; height: 121px;"></a>
-                                <h3><a href="https://shounan1s1sasaki.vivaldi.net/">VIVALDI
-                                    の WardPress</a></h3>
-                                <p>フォトアルバムとほぼおなじ</p>
-                              </div>
-                            </div>
+
+```
+                          <div class="col span-4"> <a href="https://shounan1s1sasaki.wordpress.com/"><img
+                                src="https://shounan1s1sasaki.files.wordpress.com/2016/11/imgp1052.jpg?w=1024"
+                                alt="img" style="width: 169px; height: 117px;"></a>
+                                
+                            <h3><a href="https://shounan1s1sasaki.wordpress.com/">フォ
+                                トアルバム</a></h3>
+                            <p>wordpress.comで作成</p>
                           </div>
-                        </section>
-                        <section id="2">
-                          <h2 class="center"><span class="under">サイトリンク2</span></h2>
-                          <a href="../web9/sound.html"> </a>
-                          <div class="container center"><a href="../web/sound.html">
-                            </a>
-                            <div class="row"><a href="../web/sound.html"> </a>
-                              <div class="col span-4"><a href="../web/sound.html">
-                                  <img src="img/cman20210911063420230.png" style="margin-top: 13px; height: 113px;"
-                                    alt="img" title="sound"> </a>
-                                <h3><a href="../web/sound.html">サウンドファイル</a></h3>
-                                <p>試作品</p>
-                              </div>
+                          
+                          
+                          <div class="col span-4"> <a href="https://shounan2s2sasaki.web.fc2.com/"><img
+                                src="img/0.jpg" alt="img" style="margin-top: 26px; width: 190px; height: 97px;"
+                                title="img"></a>
+                            <h3><a href="https://shounan2s2sasaki.web.fc2.com/">FC2
+                                別館</a></h3>
+                            <p>一部レスポンシブル化</p>
+                          </div>
+                          
+                          <div class="col span-4"> <a href="https://shounan1s1sasaki.vivaldi.net/"><img
+                                src="https://shounan1s1sasaki.vivaldi.net/wp-content/uploads/sites/17479/2020/04/IMG_0067-1024x768.jpg"
+                                alt="img" style="width: 190px; height: 121px;"></a>
+                            <h3><a href="https://shounan1s1sasaki.vivaldi.net/">VIVALDI
+                                の WardPress</a></h3>
+                            <p>フォトアルバムとほぼおなじ</p>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <section id="2">
+                      <h2 class="center"><span class="under">サイトリンク2</span></h2>
+                      <a href="../web9/sound.html"> </a>
+                      <div class="container center"><a href="../web/sound.html">
+                        </a>
+                        <div class="row"><a href="../web/sound.html"> </a>
+                          <div class="col span-4"><a href="../web/sound.html">
+                              <img src="img/cman20210911063420230.png" style="margin-top: 13px; height: 113px;"
+                                alt="img" title="sound"> </a>
+                            <h3><a href="../web/sound.html">サウンドファイル</a></h3>
+                            <p>試作品</p>
+                          </div>
+```
