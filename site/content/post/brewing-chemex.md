@@ -4,26 +4,7 @@ date: 2017-01-04T15:04:10.000Z
 description: ここに概略
 image: ""
 ---
- <li><a href="index.html">ホーム</a></li>
-                  <li><a href="#1">サイトリンク1　</a></li>
-                  <li><a href="#2">サイトリンク2</a></li>
-                  <li><a href="#3">サイトリンク3　</a></li>
-                  <li><a href="#4">アクセス</a></li>
-                  <li><a href="#5">お問い合わせ</a></li>
-                </ul>
-              </div>
-            </nav>
-          </div>
-        </div>
-      </div>
-    </header>
-    <div class="mainimg"> <img src="img/top.jpg" alt="メイン画像"> </div>
-    <main>
-      <div class="catch"> <img src="img/coollogo_com-783132.gif" alt="koujichu"
-          title="koujichu"> </div>
-      <div class="catch"><strong><br>
-        </strong></div>
-      <h2 style="text-align: center;"><span class="under">いつまでも工事中</span></h2>
+<h2 style="text-align: center;"><span class="under">いつまでも工事中</span></h2>
       <p style="text-align: center;">いつになったら終わるやら</p>
       <p style="text-align: center;"> どこまで増殖するのやら<strong></strong></p>
       <section id="1" class="gray-back">
@@ -137,5 +118,3 @@ image: ""
                                 <h3><a href="../web/sound.html">サウンドファイル</a></h3>
                                 <p>試作品</p>
                               </div>
-                              <div class="col span-4"> <img src="img/staff.jpg"
-                                  
