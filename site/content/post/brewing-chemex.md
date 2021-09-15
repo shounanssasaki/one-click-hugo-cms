@@ -1,7 +1,7 @@
 ---
 title: リンク集
 date: 2017-01-04T15:04:10.000Z
-description: ここに概略
+description: 工事中
 image: ""
 ---
 <h2 style="text-align: center;"><span class="under">いつまでも工事中</span></h2>
